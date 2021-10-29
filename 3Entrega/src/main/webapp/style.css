@@ -1,0 +1,30 @@
+.container {
+    display: block;
+    margin-left: 40%;
+    margin-top: 15%;
+    margin-right: 49%;
+}
+
+.forms {
+    font-size: 25px;
+}
+
+.texto{
+    height: 20px;
+    width: 192px;
+}
+
+.bottom{
+    height: 25px;
+    width: 200px;
+}
+
+.botao{
+    width: 200px;
+    margin-top: 10px;
+}
+.teste {
+    font-size: 15px;
+}
+
+
